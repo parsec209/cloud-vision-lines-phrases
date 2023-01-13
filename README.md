@@ -4,6 +4,8 @@ Generates lines and phrases from Google Cloud Vision's _small batch file annotat
 
 See a UI demonstration of the module here: https://github.com/parsec209/cloud-vision-lines-phrases-parser-ui.
 
+Also check out the demo on CodeSandbox: https://githubbox.com/parsec209/cloud-vision-lines-phrases-parser-ui.
+
 Within the generated object, the batch file annotation's words are sorted the same way you'd read text on a page (left to right across the page, then down to the next line). Closely-spaced words are grouped into phrases, and in turn, phrases within the same horizontal plane are grouped into lines. This output gives you additional flexibility with parsing the annotation, versus just using the out-of-the-box block formatting.
 
 **Special note:** This package was not created by nor affiliated with Google; however, getting the desired result will require you 
