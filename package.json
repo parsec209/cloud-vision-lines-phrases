@@ -1,0 +1,33 @@
+{
+  "name": "cloud-vision-lines-phrases",
+  "description": "Generates lines and phrases from Google Cloud Vision's online small batch file annotation.",
+  "version": "1.0.0",
+  "author": "Ryan Galbreath",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parsec209/cloud-vision-lines-phrases.git"
+  },
+  "homepage": "https://github.com/parsec209/cloud-vision-lines-phrases",
+  "engines" : { 
+    "node" : ">=16.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config=test/config.js"
+  },
+  "keywords": [
+    "google cloud",
+    "google vision",
+    "GCP",
+    "Google Cloud Vision",
+    "lines",
+    "phrases",
+    "annotation",
+    "batch file annotation",
+    "OCR"
+  ],
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}

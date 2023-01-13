@@ -1,0 +1,1607 @@
+{
+    "filename": "TIFF.tiff",
+    "batchFileAnnotation": [
+        {
+            "faceAnnotations": [],
+            "landmarkAnnotations": [],
+            "logoAnnotations": [],
+            "labelAnnotations": [],
+            "textAnnotations": [],
+            "localizedObjectAnnotations": [],
+            "safeSearchAnnotation": null,
+            "imagePropertiesAnnotation": null,
+            "error": null,
+            "cropHintsAnnotation": null,
+            "fullTextAnnotation": {
+                "pages": [
+                    {
+                        "blocks": [
+                            {
+                                "paragraphs": [
+                                    {
+                                        "words": [
+                                            {
+                                                "symbols": [
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 49,
+                                                                    "y": 359
+                                                                },
+                                                                {
+                                                                    "x": 74,
+                                                                    "y": 359
+                                                                },
+                                                                {
+                                                                    "x": 74,
+                                                                    "y": 398
+                                                                },
+                                                                {
+                                                                    "x": 49,
+                                                                    "y": 398
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "T",
+                                                        "confidence": 0.9899924397468567
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 72,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 95,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 95,
+                                                                    "y": 397
+                                                                },
+                                                                {
+                                                                    "x": 72,
+                                                                    "y": 397
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "a",
+                                                        "confidence": 0.9908708333969116
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 96,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 119,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 119,
+                                                                    "y": 397
+                                                                },
+                                                                {
+                                                                    "x": 96,
+                                                                    "y": 397
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "g",
+                                                        "confidence": 0.9928697943687439
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 121,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 142,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 142,
+                                                                    "y": 397
+                                                                },
+                                                                {
+                                                                    "x": 121,
+                                                                    "y": 397
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "g",
+                                                        "confidence": 0.9911088347434998
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 145,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 167,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 167,
+                                                                    "y": 397
+                                                                },
+                                                                {
+                                                                    "x": 145,
+                                                                    "y": 397
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "e",
+                                                        "confidence": 0.9875052571296692
+                                                    },
+                                                    {
+                                                        "property": {
+                                                            "detectedLanguages": [],
+                                                            "detectedBreak": {
+                                                                "type": "SPACE",
+                                                                "isPrefix": false
+                                                            }
+                                                        },
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 168,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 192,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 192,
+                                                                    "y": 397
+                                                                },
+                                                                {
+                                                                    "x": 168,
+                                                                    "y": 397
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "d",
+                                                        "confidence": 0.9901050925254822
+                                                    }
+                                                ],
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en",
+                                                            "confidence": 1
+                                                        }
+                                                    ],
+                                                    "detectedBreak": null
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 49,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 192,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 192,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 49,
+                                                            "y": 398
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "confidence": 0.990408718585968
+                                            },
+                                            {
+                                                "symbols": [
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 208,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 216,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 216,
+                                                                    "y": 397
+                                                                },
+                                                                {
+                                                                    "x": 208,
+                                                                    "y": 397
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "I",
+                                                        "confidence": 0.9923877716064453
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 219,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 250,
+                                                                    "y": 358
+                                                                },
+                                                                {
+                                                                    "x": 250,
+                                                                    "y": 397
+                                                                },
+                                                                {
+                                                                    "x": 219,
+                                                                    "y": 397
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "m",
+                                                        "confidence": 0.9926513433456421
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 255,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 279,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 279,
+                                                                    "y": 396
+                                                                },
+                                                                {
+                                                                    "x": 255,
+                                                                    "y": 396
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "a",
+                                                        "confidence": 0.993785560131073
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 280,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 302,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 302,
+                                                                    "y": 396
+                                                                },
+                                                                {
+                                                                    "x": 280,
+                                                                    "y": 396
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "g",
+                                                        "confidence": 0.9936726093292236
+                                                    },
+                                                    {
+                                                        "property": {
+                                                            "detectedLanguages": [],
+                                                            "detectedBreak": {
+                                                                "type": "SPACE",
+                                                                "isPrefix": false
+                                                            }
+                                                        },
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 304,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 326,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 326,
+                                                                    "y": 396
+                                                                },
+                                                                {
+                                                                    "x": 304,
+                                                                    "y": 396
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "e",
+                                                        "confidence": 0.9953824281692505
+                                                    }
+                                                ],
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en",
+                                                            "confidence": 1
+                                                        }
+                                                    ],
+                                                    "detectedBreak": null
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 208,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 326,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 326,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 208,
+                                                            "y": 397
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "confidence": 0.993575930595398
+                                            },
+                                            {
+                                                "symbols": [
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 344,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 365,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 365,
+                                                                    "y": 396
+                                                                },
+                                                                {
+                                                                    "x": 344,
+                                                                    "y": 396
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "F",
+                                                        "confidence": 0.9914323091506958
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 368,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 376,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 376,
+                                                                    "y": 396
+                                                                },
+                                                                {
+                                                                    "x": 368,
+                                                                    "y": 396
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "i",
+                                                        "confidence": 0.9919246435165405
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 378,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 388,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 388,
+                                                                    "y": 396
+                                                                },
+                                                                {
+                                                                    "x": 378,
+                                                                    "y": 396
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "l",
+                                                        "confidence": 0.9888466596603394
+                                                    },
+                                                    {
+                                                        "property": {
+                                                            "detectedLanguages": [],
+                                                            "detectedBreak": {
+                                                                "type": "SPACE",
+                                                                "isPrefix": false
+                                                            }
+                                                        },
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 388,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 409,
+                                                                    "y": 357
+                                                                },
+                                                                {
+                                                                    "x": 409,
+                                                                    "y": 396
+                                                                },
+                                                                {
+                                                                    "x": 388,
+                                                                    "y": 396
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "e",
+                                                        "confidence": 0.9745211005210876
+                                                    }
+                                                ],
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en",
+                                                            "confidence": 1
+                                                        }
+                                                    ],
+                                                    "detectedBreak": null
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 344,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 409,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 409,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 344,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "confidence": 0.9866811633110046
+                                            },
+                                            {
+                                                "symbols": [
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 428,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 449,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 449,
+                                                                    "y": 395
+                                                                },
+                                                                {
+                                                                    "x": 428,
+                                                                    "y": 395
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "F",
+                                                        "confidence": 0.9838520288467407
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 452,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 473,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 473,
+                                                                    "y": 395
+                                                                },
+                                                                {
+                                                                    "x": 452,
+                                                                    "y": 395
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "o",
+                                                        "confidence": 0.9907591342926025
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 475,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 490,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 490,
+                                                                    "y": 395
+                                                                },
+                                                                {
+                                                                    "x": 475,
+                                                                    "y": 395
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "r",
+                                                        "confidence": 0.9895198345184326
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 492,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 523,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 523,
+                                                                    "y": 395
+                                                                },
+                                                                {
+                                                                    "x": 492,
+                                                                    "y": 395
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "m",
+                                                        "confidence": 0.9840632677078247
+                                                    },
+                                                    {
+                                                        "property": null,
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 528,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 549,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 549,
+                                                                    "y": 395
+                                                                },
+                                                                {
+                                                                    "x": 528,
+                                                                    "y": 395
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "a",
+                                                        "confidence": 0.9698924422264099
+                                                    },
+                                                    {
+                                                        "property": {
+                                                            "detectedLanguages": [],
+                                                            "detectedBreak": {
+                                                                "type": "LINE_BREAK",
+                                                                "isPrefix": false
+                                                            }
+                                                        },
+                                                        "boundingBox": {
+                                                            "vertices": [
+                                                                {
+                                                                    "x": 549,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 565,
+                                                                    "y": 356
+                                                                },
+                                                                {
+                                                                    "x": 565,
+                                                                    "y": 395
+                                                                },
+                                                                {
+                                                                    "x": 549,
+                                                                    "y": 395
+                                                                }
+                                                            ],
+                                                            "normalizedVertices": []
+                                                        },
+                                                        "text": "t",
+                                                        "confidence": 0.9402769207954407
+                                                    }
+                                                ],
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en",
+                                                            "confidence": 1
+                                                        }
+                                                    ],
+                                                    "detectedBreak": null
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 428,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 565,
+                                                            "y": 355
+                                                        },
+                                                        {
+                                                            "x": 565,
+                                                            "y": 395
+                                                        },
+                                                        {
+                                                            "x": 428,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "confidence": 0.9763939380645752
+                                            }
+                                        ],
+                                        "property": null,
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 49,
+                                                    "y": 358
+                                                },
+                                                {
+                                                    "x": 565,
+                                                    "y": 355
+                                                },
+                                                {
+                                                    "x": 565,
+                                                    "y": 395
+                                                },
+                                                {
+                                                    "x": 49,
+                                                    "y": 398
+                                                }
+                                            ],
+                                            "normalizedVertices": []
+                                        },
+                                        "confidence": 0.9864485859870911
+                                    }
+                                ],
+                                "property": null,
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 49,
+                                            "y": 358
+                                        },
+                                        {
+                                            "x": 565,
+                                            "y": 355
+                                        },
+                                        {
+                                            "x": 565,
+                                            "y": 395
+                                        },
+                                        {
+                                            "x": 49,
+                                            "y": 398
+                                        }
+                                    ],
+                                    "normalizedVertices": []
+                                },
+                                "blockType": "TEXT",
+                                "confidence": 0.9864485859870911
+                            }
+                        ],
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en",
+                                    "confidence": 1
+                                }
+                            ],
+                            "detectedBreak": null
+                        },
+                        "width": 650,
+                        "height": 434,
+                        "confidence": 0.9864485859870911
+                    }
+                ],
+                "text": "Tagged Image File Format"
+            },
+            "webDetection": null,
+            "productSearchResults": null,
+            "context": {
+                "uri": "",
+                "pageNumber": 1
+            }
+        }
+    ],
+    "lineList": {
+        "pages": [
+            {
+                "lines": [
+                    {
+                        "phrases": [
+                            {
+                                "words": [
+                                    {
+                                        "symbols": [
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 49,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 74,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 74,
+                                                            "y": 398
+                                                        },
+                                                        {
+                                                            "x": 49,
+                                                            "y": 398
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "T",
+                                                "confidence": 0.9899924397468567
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 72,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 95,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 95,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 72,
+                                                            "y": 397
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "a",
+                                                "confidence": 0.9908708333969116
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 96,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 119,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 119,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 96,
+                                                            "y": 397
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "g",
+                                                "confidence": 0.9928697943687439
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 121,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 142,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 142,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 121,
+                                                            "y": 397
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "g",
+                                                "confidence": 0.9911088347434998
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 145,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 167,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 167,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 145,
+                                                            "y": 397
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "e",
+                                                "confidence": 0.9875052571296692
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE",
+                                                        "isPrefix": false
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 168,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 192,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 192,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 168,
+                                                            "y": 397
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "d",
+                                                "confidence": 0.9901050925254822
+                                            }
+                                        ],
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 49,
+                                                    "y": 357
+                                                },
+                                                {
+                                                    "x": 192,
+                                                    "y": 357
+                                                },
+                                                {
+                                                    "x": 192,
+                                                    "y": 398
+                                                },
+                                                {
+                                                    "x": 49,
+                                                    "y": 398
+                                                }
+                                            ],
+                                            "normalizedVertices": [
+                                                {
+                                                    "x": 0.07538461538461538,
+                                                    "y": 0.8225806451612904
+                                                },
+                                                {
+                                                    "x": 0.2953846153846154,
+                                                    "y": 0.8225806451612904
+                                                },
+                                                {
+                                                    "x": 0.2953846153846154,
+                                                    "y": 0.9170506912442397
+                                                },
+                                                {
+                                                    "x": 0.07538461538461538,
+                                                    "y": 0.9170506912442397
+                                                }
+                                            ]
+                                        },
+                                        "text": "Tagged"
+                                    },
+                                    {
+                                        "symbols": [
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 208,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 216,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 216,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 208,
+                                                            "y": 397
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "I",
+                                                "confidence": 0.9923877716064453
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 219,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 250,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 250,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 219,
+                                                            "y": 397
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "m",
+                                                "confidence": 0.9926513433456421
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 255,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 279,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 279,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 255,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "a",
+                                                "confidence": 0.993785560131073
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 280,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 302,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 302,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 280,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "g",
+                                                "confidence": 0.9936726093292236
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE",
+                                                        "isPrefix": false
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 304,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 326,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 326,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 304,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "e",
+                                                "confidence": 0.9953824281692505
+                                            }
+                                        ],
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 208,
+                                                    "y": 356
+                                                },
+                                                {
+                                                    "x": 326,
+                                                    "y": 356
+                                                },
+                                                {
+                                                    "x": 326,
+                                                    "y": 397
+                                                },
+                                                {
+                                                    "x": 208,
+                                                    "y": 397
+                                                }
+                                            ],
+                                            "normalizedVertices": [
+                                                {
+                                                    "x": 0.32,
+                                                    "y": 0.8202764976958525
+                                                },
+                                                {
+                                                    "x": 0.5015384615384615,
+                                                    "y": 0.8202764976958525
+                                                },
+                                                {
+                                                    "x": 0.5015384615384615,
+                                                    "y": 0.9147465437788018
+                                                },
+                                                {
+                                                    "x": 0.32,
+                                                    "y": 0.9147465437788018
+                                                }
+                                            ]
+                                        },
+                                        "text": "Image"
+                                    },
+                                    {
+                                        "symbols": [
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 344,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 365,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 365,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 344,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "F",
+                                                "confidence": 0.9914323091506958
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 368,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 376,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 376,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 368,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "i",
+                                                "confidence": 0.9919246435165405
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 378,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 388,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 388,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 378,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "l",
+                                                "confidence": 0.9888466596603394
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE",
+                                                        "isPrefix": false
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 388,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 409,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 409,
+                                                            "y": 396
+                                                        },
+                                                        {
+                                                            "x": 388,
+                                                            "y": 396
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "e",
+                                                "confidence": 0.9745211005210876
+                                            }
+                                        ],
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 344,
+                                                    "y": 357
+                                                },
+                                                {
+                                                    "x": 409,
+                                                    "y": 357
+                                                },
+                                                {
+                                                    "x": 409,
+                                                    "y": 396
+                                                },
+                                                {
+                                                    "x": 344,
+                                                    "y": 396
+                                                }
+                                            ],
+                                            "normalizedVertices": [
+                                                {
+                                                    "x": 0.5292307692307693,
+                                                    "y": 0.8225806451612904
+                                                },
+                                                {
+                                                    "x": 0.6292307692307693,
+                                                    "y": 0.8225806451612904
+                                                },
+                                                {
+                                                    "x": 0.6292307692307693,
+                                                    "y": 0.9124423963133641
+                                                },
+                                                {
+                                                    "x": 0.5292307692307693,
+                                                    "y": 0.9124423963133641
+                                                }
+                                            ]
+                                        },
+                                        "text": "File"
+                                    },
+                                    {
+                                        "symbols": [
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 428,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 449,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 449,
+                                                            "y": 395
+                                                        },
+                                                        {
+                                                            "x": 428,
+                                                            "y": 395
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "F",
+                                                "confidence": 0.9838520288467407
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 452,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 473,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 473,
+                                                            "y": 395
+                                                        },
+                                                        {
+                                                            "x": 452,
+                                                            "y": 395
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "o",
+                                                "confidence": 0.9907591342926025
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 475,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 490,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 490,
+                                                            "y": 395
+                                                        },
+                                                        {
+                                                            "x": 475,
+                                                            "y": 395
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "r",
+                                                "confidence": 0.9895198345184326
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 492,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 523,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 523,
+                                                            "y": 395
+                                                        },
+                                                        {
+                                                            "x": 492,
+                                                            "y": 395
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "m",
+                                                "confidence": 0.9840632677078247
+                                            },
+                                            {
+                                                "property": null,
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 528,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 549,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 549,
+                                                            "y": 395
+                                                        },
+                                                        {
+                                                            "x": 528,
+                                                            "y": 395
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "a",
+                                                "confidence": 0.9698924422264099
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [],
+                                                    "detectedBreak": {
+                                                        "type": "LINE_BREAK",
+                                                        "isPrefix": false
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 549,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 565,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 565,
+                                                            "y": 395
+                                                        },
+                                                        {
+                                                            "x": 549,
+                                                            "y": 395
+                                                        }
+                                                    ],
+                                                    "normalizedVertices": []
+                                                },
+                                                "text": "t",
+                                                "confidence": 0.9402769207954407
+                                            }
+                                        ],
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 428,
+                                                    "y": 355
+                                                },
+                                                {
+                                                    "x": 565,
+                                                    "y": 355
+                                                },
+                                                {
+                                                    "x": 565,
+                                                    "y": 396
+                                                },
+                                                {
+                                                    "x": 428,
+                                                    "y": 396
+                                                }
+                                            ],
+                                            "normalizedVertices": [
+                                                {
+                                                    "x": 0.6584615384615384,
+                                                    "y": 0.8179723502304147
+                                                },
+                                                {
+                                                    "x": 0.8692307692307693,
+                                                    "y": 0.8179723502304147
+                                                },
+                                                {
+                                                    "x": 0.8692307692307693,
+                                                    "y": 0.9124423963133641
+                                                },
+                                                {
+                                                    "x": 0.6584615384615384,
+                                                    "y": 0.9124423963133641
+                                                }
+                                            ]
+                                        },
+                                        "text": "Format"
+                                    }
+                                ],
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 49,
+                                            "y": 355
+                                        },
+                                        {
+                                            "x": 565,
+                                            "y": 355
+                                        },
+                                        {
+                                            "x": 565,
+                                            "y": 398
+                                        },
+                                        {
+                                            "x": 49,
+                                            "y": 398
+                                        }
+                                    ],
+                                    "normalizedVertices": [
+                                        {
+                                            "x": 0.07538461538461538,
+                                            "y": 0.8179723502304147
+                                        },
+                                        {
+                                            "x": 0.8692307692307693,
+                                            "y": 0.8179723502304147
+                                        },
+                                        {
+                                            "x": 0.8692307692307693,
+                                            "y": 0.9170506912442397
+                                        },
+                                        {
+                                            "x": 0.07538461538461538,
+                                            "y": 0.9170506912442397
+                                        }
+                                    ]
+                                },
+                                "text": "Tagged Image File Format"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "lineListText": "Tagged Image File Format\n"
+}
